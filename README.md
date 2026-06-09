@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mandress101, i'm from Italy and i study Software engineering in Universiti of Bologna.<br><br>Overall skills:<br>🔌Professional firmware developer (C++ and C)<br>     - Pic 16 and 32 bit<br>     - STM8 and STM32<br>     - ATMEL ATMega with arduino<br><br>  ⏩ Minecraft Plugin developer (since 2018)<br>     
+I'm Mandress101, i'm from Italy and i study Software engineering in University of Bologna.<br><br>Overall skills:<br>🔌Professional firmware developer (C++ and C)<br>     - Pic 16 and 32 bit<br>     - STM8 and STM32<br>     - ATMEL ATMega with arduino<br><br>  ⏩ Minecraft Plugin developer (since 2018)<br>     
 
 
 ## 🌐 Socials:
